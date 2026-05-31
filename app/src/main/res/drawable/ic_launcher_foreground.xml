@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Stylized Streaming Monitor Frame -->
+    <path
+        android:fillColor="#171E26"
+        android:pathData="M30,30h48c3.3,0,6,2.7,6,6v28c0,3.3,-2.7,6,-6,6H30c-3.3,0,-6,-2.7,-6,-6V36C24,32.7,26.7,30,30,30z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineJoin="round" />
+        
+    <!-- Stand for the TV monitor -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M46,70l-4,6h24l-4,-6"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round" />
+
+    <!-- Highly stylized Netflix Red Play Triangle in the center -->
+    <path
+        android:fillColor="#E50914"
+        android:pathData="M48,42l16,9l-16,9z" />
+        
+    <!-- Prime Video curved smile under the play button -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M36,63q18,7,36,0"
+        android:strokeColor="#00A8E1"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+</vector>
